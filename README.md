@@ -1,2 +1,2 @@
 # AdventOfCode
-Collection of my solutions to the competition adventOfCode
+Collection of my solutions for the competition adventOfCode
